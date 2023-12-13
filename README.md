@@ -1,0 +1,1 @@
+# django-models-chetotam-test2
